@@ -1,0 +1,1 @@
+# These are solutions (and questions) of excersices in java advanced programming course presented by P.Ghatee at Amirkabir university of technology
