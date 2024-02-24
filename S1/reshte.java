@@ -106,6 +106,3 @@ public class reshte {
     }
 }
 
-
-// آقای محمدرضا کتابی در ایده نوشتن حلقه وایل مرا راهنمایی کردن
-//https://www.google.com/amp/s/www.geeksforgeeks.org/compare-two-strings-in-java/amp/
